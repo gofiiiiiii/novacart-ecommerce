@@ -1,0 +1,12 @@
+/* [project]/app/globals.css [app-client] (css) */
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body {
+  font-family: Inter, system-ui, sans-serif;
+}
+
+/*# sourceMappingURL=app_globals_css_0w3-wzy._.single.css.map*/

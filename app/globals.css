@@ -2,4 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom styles you can modify later to make it "yours" */
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
